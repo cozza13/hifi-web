@@ -55,6 +55,13 @@
         </ul>
     </section>
     <div class="container">
+          <div>
+            <a href="http://blogs.wgbh.org/innovation-hub/2015/8/14/virtual-reality-rosedale/" target="_blank">
+                <div>8/14/2015</div>
+                <div>What Happens When Our Worlds Become Virtual</div>
+                <div>WGBH</div>
+            </a>
+        </div>
         <div>
             <a href="http://recode.net/2015/07/31/in-the-shadow-of-second-life-virtual-reality-startups-say-this-time-itll-work-really/" target="_blank">
                 <div>7/31/2015</div>
